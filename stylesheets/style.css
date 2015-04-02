@@ -61,7 +61,8 @@ header {
       padding-right: 0.5em; }
   .head_nav li a {
     text-decoration: none;
-    color: #083452; }
+    color: white;
+    text-shadow: 1px 1px 1px black; }
     .head_nav li a:hover {
       color: #3aa4ec; }
 
@@ -465,7 +466,7 @@ span {
     border: none;
     margin-right: 0; }
   .bottom_footer li a {
-    padding-right: .5em; }
+    padding-right: 1em; }
 
   .main_footer h2 {
     font-size: 2.5em; } }

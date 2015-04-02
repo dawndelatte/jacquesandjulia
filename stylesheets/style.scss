@@ -94,7 +94,8 @@ header {
 
 	li a {
 	text-decoration: none;
-	color: #083452;
+	color: white;
+	text-shadow: 1px 1px 1px black;
 
 	&:hover {
 
@@ -620,7 +621,7 @@ header {
 	margin-right: 0;
 	}
 	li a{
-	padding-right: .5em;
+	padding-right: 1em;
 	}
 }
 
