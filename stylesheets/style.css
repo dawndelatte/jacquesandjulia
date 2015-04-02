@@ -204,7 +204,8 @@ span {
 .ad a {
   display: block;
   margin-bottom: 1em;
-  text-align: right; }
+  text-align: right;
+  color: #5e686f; }
 
 .sidebar h3 {
   margin-bottom: .625em;
