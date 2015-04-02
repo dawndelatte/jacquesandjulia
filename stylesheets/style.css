@@ -243,7 +243,7 @@ span {
   background-size: cover;
   width: 100%;
   height: 100px;
-  background-image: linear-gradient(rgba(130, 131, 126, 0.5), rgba(130, 131, 126, 0.5)), url(../images/hash.jpg); }
+  background-image: linear-gradient(rgba(135, 155, 160, 0.5), rgba(135, 155, 160, 0.5)), url(../images/hash.jpg); }
   .surf:hover {
     background-image: url(../images/hash.jpg); }
 
@@ -253,7 +253,7 @@ span {
   background-size: cover;
   width: 100%;
   height: 100px;
-  background-image: linear-gradient(rgba(130, 131, 126, 0.5), rgba(130, 131, 126, 0.5)), url(../images/creampuffs.jpg); }
+  background-image: linear-gradient(rgba(135, 155, 160, 0.5), rgba(135, 155, 160, 0.5)), url(../images/creampuffs.jpg); }
   .boards:hover {
     background-image: url(../images/creampuffs.jpg); }
 
@@ -263,7 +263,7 @@ span {
   background-size: cover;
   width: 100%;
   height: 100px;
-  background-image: linear-gradient(rgba(130, 131, 126, 0.5), rgba(130, 131, 126, 0.5)), url(../images/eggplants.jpg); }
+  background-image: linear-gradient(rgba(135, 155, 160, 0.5), rgba(135, 155, 160, 0.5)), url(../images/eggplants.jpg); }
   .paddle:hover {
     background-image: url(../images/eggplants.jpg); }
 
@@ -273,7 +273,7 @@ span {
   background-size: cover;
   width: 100%;
   height: 100px;
-  background-image: linear-gradient(rgba(130, 131, 126, 0.5), rgba(130, 131, 126, 0.5)), url(../images/figs.jpg); }
+  background-image: linear-gradient(rgba(135, 155, 160, 0.5), rgba(135, 155, 160, 0.5)), url(../images/figs.jpg); }
   .beach:hover {
     background-image: url(../images/figs.jpg); }
 

@@ -338,7 +338,7 @@ span {
 
 .surf {
 	@include global-footer-images;
-	background-image: linear-gradient(rgba(130, 131, 126, 0.5), rgba(130, 131, 126, 0.5)), url(../images/hash.jpg);
+	background-image: linear-gradient(rgba(135, 155, 160, 0.5), rgba(135, 155, 160, 0.5)), url(../images/hash.jpg);
 
 	&:hover {
 		background-image: url(../images/hash.jpg);
@@ -347,7 +347,7 @@ span {
 
 .boards {
 	@include global-footer-images;
-	background-image: linear-gradient(rgba(130, 131, 126, 0.5), rgba(130, 131, 126, 0.5)), url(../images/creampuffs.jpg);
+	background-image: linear-gradient(rgba(135, 155, 160, 0.5), rgba(135, 155, 160, 0.5)), url(../images/creampuffs.jpg);
 
 	&:hover {
 		background-image: url(../images/creampuffs.jpg);
@@ -356,7 +356,7 @@ span {
 
 .paddle {
 	@include global-footer-images;
-	background-image: linear-gradient(rgba(130, 131, 126, 0.5), rgba(130, 131, 126, 0.5)), url(../images/eggplants.jpg);
+	background-image: linear-gradient(rgba(135, 155, 160, 0.5), rgba(135, 155, 160, 0.5)), url(../images/eggplants.jpg);
 
 	&:hover {
 		background-image: url(../images/eggplants.jpg);
@@ -365,7 +365,7 @@ span {
 
 .beach {
 	@include global-footer-images;
-	background-image: linear-gradient(rgba(130, 131, 126, 0.5), rgba(130, 131, 126, 0.5)), url(../images/figs.jpg);
+	background-image: linear-gradient(rgba(135, 155, 160, 0.5), rgba(135, 155, 160, 0.5)), url(../images/figs.jpg);
 
 	&:hover {
 		background-image: url(../images/figs.jpg);
