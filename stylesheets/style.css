@@ -16,7 +16,7 @@ body {
 
 header {
   height: 18.75em;
-  background-image: url(https://m1.behance.net/rendition/modules/51017955/disp/10d94ff5adc4216ad9f856e6514468c4.jpg);
+  background-image: url(../images/jacquesandjulia.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   position: relative; }
@@ -90,7 +90,7 @@ span {
   font-weight: 600;
   letter-spacing: 1px;
   color: #083452;
-  margin-top: 20px; }
+  margin-top: 2em; }
 .headline h3 {
   font-size: 1.4em;
   font-weight: 700;
@@ -159,7 +159,8 @@ span {
   display: none; }
 
 .htemil_photo {
-  width: 15%; }
+  width: 15%;
+  margin-top: 5em; }
   .htemil_photo img {
     border-radius: 50%; }
 
@@ -283,9 +284,9 @@ span {
   overflow: hidden;
   height: 3.12em;
   background-color: #083452;
-  padding-top: 2.5em;
+  padding-top: 2em;
   letter-spacing: .02em;
-  padding-bottom: 3.65em; }
+  padding-bottom: 2em; }
   .bottom_footer ul {
     float: right;
     width: 25%; }
@@ -404,9 +405,6 @@ span {
     height: 32.68em; }
     header h1 {
       font-size: 7em; }
-
-  .head_wrap {
-    padding-top: 8em; }
 
   .logo {
     float: left; }
